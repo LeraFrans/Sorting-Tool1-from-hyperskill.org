@@ -1,5 +1,4 @@
-# Sorting-Tool1-from-hyperskill.org
-Project "Sorting Tool", written during the course "Kotlin Developer" from JetBrains 
+# Sorting-Tool1
 
 Code for simple processing and sorting of data. The main arguments are data type (numbers, words or lines), sorting metod (nature or by count), where to get the data from and where to ounput it (console or file). 
 Output: total number of elements and sorted list. The program can also handle exeptions. 
